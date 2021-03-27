@@ -5,6 +5,7 @@
  *      Author: PJS
  */
 
+// comment 수정 (별로 안중요함.)
 
 #include "PaillierCrypto.h"
 #include <iostream>
