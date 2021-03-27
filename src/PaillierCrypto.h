@@ -14,7 +14,7 @@
 #define _DEBUG_THREAD
 //#define _DEBUG_Initialization
 //#define _DEBUG_SquaredDist
-//#define _DEBUG_SecureMultiplication
+#define _DEBUG_SecureMultiplication
 //#define _DEBUG_SecureBitDecomposition
 //#define _DEBUG_EncryptedLSB
 //#define _DEBUG_SVR
